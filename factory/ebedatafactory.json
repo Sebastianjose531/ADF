@@ -1,0 +1,9 @@
+{
+	"name": "ebedatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "41953a75-b1ba-4a9c-919f-7acaf728afc4",
+		"tenantId": "e493d684-4b26-4607-a455-9efb7ab8591b"
+	}
+}
